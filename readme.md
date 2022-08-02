@@ -8,8 +8,10 @@
 </p>
 
 ABOUT PROJECT:
-What is it? A notebook app used to create a notebook containing notes to store information. 
-What technology was used? Laravel(Framework of PHP) with HTML and Bootstrap
+
+
+What is it? A notebook app used to create notebooks along with notes to store text information and picture. 
+What technology was used? Laravel(Framework of PHP) with HTML and Bootstrap.
 
 
 ## About Laravel
